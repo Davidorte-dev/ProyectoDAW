@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-# ProyectoDAW
-gi
+ProyectoDAW
